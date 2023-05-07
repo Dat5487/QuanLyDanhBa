@@ -1,0 +1,11 @@
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\BUS.dll
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\BUS.pdb
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\DAL.dll
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\DTO.dll
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\DAL.pdb
+C:\Users\dat54\source\repos\QLDanhBa\BUS\bin\Debug\DTO.pdb
+C:\Users\dat54\source\repos\QLDanhBa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dat54\source\repos\QLDanhBa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dat54\source\repos\QLDanhBa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dat54\source\repos\QLDanhBa\BUS\obj\Debug\BUS.dll
+C:\Users\dat54\source\repos\QLDanhBa\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,9 @@
+C:\Users\dat54\source\repos\QLDanhBa\DAL\bin\Debug\DAL.dll
+C:\Users\dat54\source\repos\QLDanhBa\DAL\bin\Debug\DAL.pdb
+C:\Users\dat54\source\repos\QLDanhBa\DAL\bin\Debug\DTO.dll
+C:\Users\dat54\source\repos\QLDanhBa\DAL\bin\Debug\DTO.pdb
+C:\Users\dat54\source\repos\QLDanhBa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dat54\source\repos\QLDanhBa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dat54\source\repos\QLDanhBa\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dat54\source\repos\QLDanhBa\DAL\obj\Debug\DAL.dll
+C:\Users\dat54\source\repos\QLDanhBa\DAL\obj\Debug\DAL.pdb
